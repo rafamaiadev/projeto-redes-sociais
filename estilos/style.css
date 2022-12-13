@@ -23,6 +23,7 @@ main {
     height: 100vh;
     position:relative;
     min-height: 750px;
+    overflow: hidden;
 }
 
 section#telefone {
