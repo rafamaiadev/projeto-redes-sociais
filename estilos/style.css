@@ -21,6 +21,7 @@ body {
 main {
     height: 100vh;
     position:relative;
+    width: 100vw;
 }
 
 section#telefone {
@@ -41,7 +42,8 @@ iframe#tela {
     height: 471px;
 }
 section#redes-sociais {
-    display: flex;   
+    display: flex;
+    position: relative;   
 }
 
 section#redes-sociais img {
